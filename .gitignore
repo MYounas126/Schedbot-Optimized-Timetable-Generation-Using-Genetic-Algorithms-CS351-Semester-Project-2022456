@@ -1,0 +1,16 @@
+*.csv
+**/*.csv
+*.xlsx
+**/*xlsx
+/code/venv/
+Code/envtt/
+/env/
+/Code/__pycache__/*
+openaikey.txt
+/timetableapp/__pycache__/*
+/timetable-app/*
+.env
+/timetable-app/*
+Code/*
+/timetableapp-og/*
+/__pycache__/*

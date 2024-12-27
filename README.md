@@ -137,4 +137,4 @@ We welcome contributions! If you'd like to contribute, please follow these steps
 
 - Thanks to **OpenAI** for providing the API that powers the chatbot.  
 - Special thanks to the contributors who have helped improve the algorithms behind timetable generation.
-- Thanks to my teacher https://github.com/usamajanjua9
+- Thanks to my teacher [Usama Janjua](https://github.com/usamajanjua9)

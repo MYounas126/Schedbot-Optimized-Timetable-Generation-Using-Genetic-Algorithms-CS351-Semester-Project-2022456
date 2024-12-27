@@ -1,0 +1,1 @@
+# Schedbot-Optimized-Timetable-Generation-Using-Genetic-Algorithms-CS351-Semester-Project-2022456

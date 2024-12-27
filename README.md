@@ -131,13 +131,10 @@ We welcome contributions! If you'd like to contribute, please follow these steps
 
 ---
 
-## License
 
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
-
----
 
 ## Acknowledgments
 
 - Thanks to **OpenAI** for providing the API that powers the chatbot.  
 - Special thanks to the contributors who have helped improve the algorithms behind timetable generation.
+- Thanks to my teacher https://github.com/usamajanjua9
